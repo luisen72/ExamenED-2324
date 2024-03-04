@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta>
+    <link rel="nosé" href="estilos.css">
+    <title>Examen ED 2024</title>
+</head>
+<body>
+
+    <header>
+        <h1>¡Encabezado definitivo: no borrar!</h1>
+		<p>A mí tampoco me borres, por favor :(</p>
+    </header>
+
+    <main>
+        <ul>
+			<li>¡No me dejes aquí, cuidado que borro cosas!</li>
+		</ul>
+    </main>
+
+    <footer>
+        <p>Contacto: >> NOMBRE Y APELLIDOS DEL ALUMNO >> </p>
+    </footer>
+</body>
+</html>
